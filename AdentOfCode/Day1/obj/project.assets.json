@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\vatr\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\git\\AdentOfCode\\Day1\\Day1.csproj",
+      "projectName": "Day1",
+      "projectPath": "C:\\git\\AdentOfCode\\Day1\\Day1.csproj",
+      "packagesPath": "C:\\Users\\vatr\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\AdentOfCode\\Day1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\vatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dgsrdcloud.pkgs.visualstudio.com/a2d747d3-6419-4d01-931a-52b0d729f04f/_packaging/cloud-remote-assistance/nuget/v3/index.json": {},
+        "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpkgs.dev.azure.com%2Fdgsit%2F_packaging%2Fphoenix%2Fnuget%2Fv3%2Findex.json&data=02%7C01%7Cjjpr%40demant.com%7C710abea7820f499147d008d7f651015f%7C9bf8c7a8e00849a79e43ab76976c4bf8%7C0%7C0%7C637248700082872663&sdata=w%2F88n8EMq%2F7mOtUoniX9APc17PmHDyXp3d2dJIj%2BWJM%3D&reserved=0": {},
+        "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpkgs.dev.azure.com%2Fdgsit%2F_packaging%2Ftest-phoenix%2Fnuget%2Fv3%2Findex.json&data=02%7C01%7Cjjpr%40demant.com%7C710abea7820f499147d008d7f651015f%7C9bf8c7a8e00849a79e43ab76976c4bf8%7C0%7C0%7C637248700082872663&sdata=P4pIuaQdR8l%2BJfMplTORxwRGaRgnl817Ten70GH1HOE%3D&reserved=0": {},
+        "https://pkgs.dev.azure.com/dgsit/Infrastructure/_packaging/dev-phoenix/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dgsit/Infrastructure/_packaging/phoenix-dependencies/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dgsit/Infrastructure/_packaging/phoenix-technical-writing/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dgsit/Infrastructure/_packaging/sws-packages/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
